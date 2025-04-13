@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello!
 
-<!--
-**Jsotomolinez/jsotomolinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Welcome to my GitHub account
 
-Here are some ideas to get you started:
+### ✨ My name is Jesús Soto
+I am a **💻 software developer** and a **⚗️ chemical engineering student** from **🇻🇪 Venezuela**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I started programming during my time at university, where I discovered my passion for coding. Later, I decided to deepen my knowledge by taking the **📚 CS50 courses** from Harvard University, which helped me build a strong foundation in computer science and programming.
+
+---
+
+### 🌐 Visit my portfolio:
+🔗 [https://jesus-soto-portfolio.vercel.app/](https://jesus-soto-portfolio.vercel.app/)
+
+---
+
+🎉 Thank you for visiting my profile! Feel free to explore my repositories and projects. 🚀
