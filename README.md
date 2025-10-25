@@ -10,7 +10,7 @@ I am a **💻 software developer** and a **⚗️ chemical engineering student**
 ---
 
 ### 🌐 Visit my portfolio:
-🔗 [https://jesus-soto-portfolio.vercel.app/](https://jesus-soto-portfolio.vercel.app/)
+🔗 [https://jsotomolinez.vercel.app/](https://jsotomolinez.vercel.app/)
 
 ---
 
